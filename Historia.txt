@@ -1,3 +1,8 @@
 Esta es mi historia 
 
 hablaremeos de su vida
+<<<<<<< HEAD
+=======
+
+hablaremeos de los gatos 
+>>>>>>> cabecera
