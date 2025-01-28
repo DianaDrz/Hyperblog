@@ -5,3 +5,5 @@ hablaremos de su vida
 hablaremos de los gatos
 Añadimos mas datos a esta historia 
 salimos con esc+shif+zz
+
+funciono con esc, escribir :x y enter
